@@ -1,0 +1,3 @@
+import demy
+
+demy.DemyProject()
